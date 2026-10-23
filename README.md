@@ -2,8 +2,6 @@
 
 # Hi, I'm Jitendra Singh Tomar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Real-Time+Systems+Enthusiast;500%2B+LeetCode+Problems+Solved;Turning+ideas+into+shipped+products" alt="Typing SVG" />
-
 **B.Tech CSE @ MITS Gwalior · 2023–2027 · CGPA 8.63**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jitendra-singh-tomar-7a3bba376)
